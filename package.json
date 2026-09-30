@@ -1,0 +1,51 @@
+{
+  "name": "ajith-s-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal portfolio of Ajith S — Video Edit, AI Production, Visual Effects and 3D & CGI.",
+  "author": "Ajith S",
+  "license": "UNLICENSED",
+  "keywords": [
+    "Video-Edit",
+    "AI-production",
+    "Visual-Effects",
+    "3D - CGI"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "images": "node scripts/optimize-images.mjs",
+    "models": "node scripts/optimize-models.mjs",
+    "brand": "node scripts/make-brand.mjs",
+    "seo:sync": "node scripts/sync-seo.mjs",
+    "seo:check": "node scripts/check-seo.mjs"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@react-spring/three": "^9.7.5",
+    "@react-three/drei": "^9.120.2",
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^9.0.7",
+    "maath": "^0.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
+    "react-parallax-tilt": "^1.7.262",
+    "react-router-dom": "^6.8.1",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "sharp": "^0.35.4",
+    "tailwindcss": "^3.2.6",
+    "vite": "^8.2.2"
+  }
+}
