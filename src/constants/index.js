@@ -126,7 +126,7 @@ const testimonials = [];
    PROJECTS
    `category` drives the filter chips, `videoId` drives the lightbox.
    ------------------------------------------------------------------ */
-const git remote add origin https://github.com/ajith-portfolio/ajiths.gitprojects = [
+const projects = [
    {
     name: "Visionary X - Promotional Reel",
     category: "Reels",
