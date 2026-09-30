@@ -127,18 +127,6 @@ const testimonials = [];
    `category` drives the filter chips, `videoId` drives the lightbox.
    ------------------------------------------------------------------ */
 const projects = [
-   {
-    name: "Visionary X - Promotional Reel",
-    category: "Reels",
-    year: "2026",
-    tags: [
-      { name: "After Effects", color: "pink-text-gradient" },
-      { name: "Premiere Pro", color: "green-text-gradient" },
-    ],
-    slug: "work-island",
-    videoId: "QJN3bjXRUJk",
-    source_code_link: "https://youtu.be/QJN3bjXRUJk?si=6g0k1r3J7X8Z2W5A",
-  },
   {
     name: "Digital Advertisment - Sowbaghya",
     category: "AI Production",
@@ -150,6 +138,30 @@ const projects = [
     slug: "work-island",
     videoId: "p3rq5qYlWow",
     source_code_link: "https://youtu.be/p3rq5qYlWow",
+  }, 
+  {
+    name: "Foodie Prabu - Travel & Food Vlog",
+    category: "Long Form Content",
+    year: "2026",
+    tags: [
+      { name: "After Effects", color: "pink-text-gradient" },
+      { name: "Premiere Pro", color: "green-text-gradient" },
+    ],
+    slug: "work-mustang",
+    videoId: "Cln8I-ZHEzQ",
+    source_code_link: "https://youtu.be/Cln8I-ZHEzQ",
+  },
+  {
+    name: "Visionary X - Promotional Reel",
+    category: "Reels",
+    year: "2026",
+    tags: [
+      { name: "After Effects", color: "pink-text-gradient" },
+      { name: "Premiere Pro", color: "green-text-gradient" },
+    ],
+    slug: "work-island",
+    videoId: "QJN3bjXRUJk",
+    source_code_link: "https://youtu.be/QJN3bjXRUJk?si=6g0k1r3J7X8Z2W5A",
   },
   {
     name: "Land Sale - IPG",
@@ -198,18 +210,6 @@ const projects = [
     slug: "work-mustang",
     videoId: "W5jWl2eztQg",
     source_code_link: "https://youtu.be/W5jWl2eztQg",
-  },
-  {
-    name: "Foodie Prabu - Travel & Food Vlog",
-    category: "Long Form Content",
-    year: "2026",
-    tags: [
-      { name: "After Effects", color: "pink-text-gradient" },
-      { name: "Premiere Pro", color: "green-text-gradient" },
-    ],
-    slug: "work-mustang",
-    videoId: "Cln8I-ZHEzQ",
-    source_code_link: "https://youtu.be/Cln8I-ZHEzQ",
   },
   {
     name: "Super Star Title Card Animation",
