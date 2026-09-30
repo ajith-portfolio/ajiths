@@ -128,6 +128,18 @@ const testimonials = [];
    ------------------------------------------------------------------ */
 const projects = [
   {
+    name: "Kaykee Digital Solution - Promotion Video",
+    category: "3D Animation & CGI",
+    year: "2025",
+    tags: [
+      { name: "Blender", color: "pink-text-gradient" },
+      { name: "Premiere Pro", color: "green-text-gradient" },
+    ],
+    slug: "work-mustang",
+    videoId: "W5jWl2eztQg",
+    source_code_link: "https://youtu.be/W5jWl2eztQg",
+  },
+  {
     name: "Digital Advertisment - Sowbaghya",
     category: "AI Production",
     year: "2025",
@@ -198,18 +210,6 @@ const projects = [
     slug: "work-airplane",
     videoId: "1J6mY1h90T0",
     source_code_link: "https://youtu.be/1J6mY1h90T0",
-  },
-  {
-    name: "Kaykee Digital Solution - Promotion Video",
-    category: "3D Animation & CGI",
-    year: "2025",
-    tags: [
-      { name: "Blender", color: "pink-text-gradient" },
-      { name: "Premiere Pro", color: "green-text-gradient" },
-    ],
-    slug: "work-mustang",
-    videoId: "W5jWl2eztQg",
-    source_code_link: "https://youtu.be/W5jWl2eztQg",
   },
   {
     name: "Super Star Title Card Animation",
