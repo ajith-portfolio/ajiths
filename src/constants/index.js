@@ -140,6 +140,18 @@ const projects = [
     source_code_link: "https://youtu.be/QJN3bjXRUJk?si=6g0k1r3J7X8Z2W5A",
   },
   {
+    name: "Digital Advertisment - Sowbaghya",
+    category: "AI Production",
+    year: "2025",
+    tags: [
+      { name: "Gemini AI", color: "pink-text-gradient" },
+      { name: "After Effects", color: "green-text-gradient" },
+    ],
+    slug: "work-island",
+    videoId: "p3rq5qYlWow",
+    source_code_link: "https://youtu.be/p3rq5qYlWow",
+  },
+  {
     name: "Land Sale - IPG",
     category: "Reels",
     year: "2026",
