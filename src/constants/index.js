@@ -176,7 +176,7 @@ const projects = [
     source_code_link: "https://youtu.be/QJN3bjXRUJk?si=6g0k1r3J7X8Z2W5A",
   },
   {
-    name: "Land Sale - IPG",
+    name: "Dubai Infrastructure - IPG",
     category: "Reels",
     year: "2026",
     tags: [
@@ -184,8 +184,8 @@ const projects = [
       { name: "Premiere Pro", color: "green-text-gradient" },
     ],
     slug: "work-ganesha",
-    videoId: "cnRmeiMiu-k",
-    source_code_link: "https://youtube.com/shorts/cnRmeiMiu-k",
+    videoId: "WWBvL9IqHCA",
+    source_code_link: "https://youtube.com/shorts/WWBvL9IqHCA",
   },
   {
     name: "Construction Agreement - Vaishnav Infrastructure",
