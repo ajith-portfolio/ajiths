@@ -160,7 +160,7 @@ const projects = [
       { name: "After Effects", color: "green-text-gradient" },
     ],
     slug: "work-mustang",
-    videoId: "W5jWl2eztQg",
+    videoId: "rcyuy77_yYE",
     source_code_link: "https://youtu.be/rcyuy77_yYE",
   },
   {
@@ -208,7 +208,7 @@ const projects = [
       { name: "Premiere Pro", color: "green-text-gradient" },
     ],
     slug: "work-ganesha",
-    videoId: "WWBvL9IqHCA",
+    videoId: "Q7HogXppNA4",
     source_code_link: "https://youtube.com/shorts/Q7HogXppNA4",
   },
   {
