@@ -152,6 +152,18 @@ const projects = [
     source_code_link: "https://youtu.be/p3rq5qYlWow",
   }, 
   {
+    name: "Podcast Edit - Indian Institute of Logistics",
+    category: "Long Form Content",
+    year: "2025",
+    tags: [
+      { name: "Davinci Resolve", color: "pink-text-gradient" },
+      { name: "After Effects", color: "green-text-gradient" },
+    ],
+    slug: "work-mustang",
+    videoId: "W5jWl2eztQg",
+    source_code_link: "https://youtu.be/rcyuy77_yYE",
+  },
+  {
     name: "Foodie Prabu - Travel & Food Vlog",
     category: "Long Form Content",
     year: "2026",
@@ -186,6 +198,18 @@ const projects = [
     slug: "work-ganesha",
     videoId: "WWBvL9IqHCA",
     source_code_link: "https://youtube.com/shorts/WWBvL9IqHCA",
+  },
+   {
+    name: "Dubai Series - IPG",
+    category: "Reels",
+    year: "2026",
+    tags: [
+      { name: "After Effects", color: "pink-text-gradient" },
+      { name: "Premiere Pro", color: "green-text-gradient" },
+    ],
+    slug: "work-ganesha",
+    videoId: "WWBvL9IqHCA",
+    source_code_link: "https://youtube.com/shorts/Q7HogXppNA4",
   },
   {
     name: "Construction Agreement - Vaishnav Infrastructure",
