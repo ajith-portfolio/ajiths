@@ -33,12 +33,12 @@ export const SITE = {
 
   contact: {
     phoneDisplay: "+91 63848 21366",
-    whatsapp: "https://wa.me/916384821366",
+    whatsapp: "https://wa.me/916374961884",
     responseTime: "Usually replies within one working day",
   },
 
   socials: [
-    { id: "whatsapp", label: "WhatsApp", href: "https://wa.me/916384821366" },
+    { id: "whatsapp", label: "WhatsApp", href: "https://wa.me/916374961884" },
     {
       id: "instagram",
       label: "Instagram",
